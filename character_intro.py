@@ -1,11 +1,7 @@
 # Dzamila Baca, Character Introduction
 
-# Create a variable
 name = "Sam"
-
-print("Hi, my name is Sam")
-
-# input 
 age = 24
-
-print("I am + age years old")
+job = "pediatrician"
+country = "Chile"
+print(f"Hi, my name is {name}. I am {age} years old. I work as a {job}, and I'm from {country}")
